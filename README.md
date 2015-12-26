@@ -1,2 +1,0 @@
-# OpenGov-Challenge
-Design challenge
